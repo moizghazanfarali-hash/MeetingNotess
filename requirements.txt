@@ -5,7 +5,7 @@ motor
 pymongo
 python-dotenv
 pydantic
-streamlit
+
 requests
 pandas
 matplotlib
